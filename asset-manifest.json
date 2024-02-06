@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd052497.chunk.css",
-    "main.js": "/static/js/main.d6128be6.chunk.js",
-    "main.js.map": "/static/js/main.d6128be6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9b643a9b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9b643a9b.js.map",
-    "static/js/2.7f8d707c.chunk.js": "/static/js/2.7f8d707c.chunk.js",
-    "static/js/2.7f8d707c.chunk.js.map": "/static/js/2.7f8d707c.chunk.js.map",
-    "static/js/3.7a5fdaaa.chunk.js": "/static/js/3.7a5fdaaa.chunk.js",
-    "static/js/3.7a5fdaaa.chunk.js.map": "/static/js/3.7a5fdaaa.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.cd052497.chunk.css.map": "/static/css/main.cd052497.chunk.css.map",
-    "static/js/2.7f8d707c.chunk.js.LICENSE.txt": "/static/js/2.7f8d707c.chunk.js.LICENSE.txt",
-    "static/media/codiny2.6336b120.svg": "/static/media/codiny2.6336b120.svg",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/sweat-camp-score/static/css/main.cd052497.chunk.css",
+    "main.js": "/sweat-camp-score/static/js/main.d6128be6.chunk.js",
+    "main.js.map": "/sweat-camp-score/static/js/main.d6128be6.chunk.js.map",
+    "runtime-main.js": "/sweat-camp-score/static/js/runtime-main.9bc104d6.js",
+    "runtime-main.js.map": "/sweat-camp-score/static/js/runtime-main.9bc104d6.js.map",
+    "static/js/2.bdfba5be.chunk.js": "/sweat-camp-score/static/js/2.bdfba5be.chunk.js",
+    "static/js/2.bdfba5be.chunk.js.map": "/sweat-camp-score/static/js/2.bdfba5be.chunk.js.map",
+    "static/js/3.7a5fdaaa.chunk.js": "/sweat-camp-score/static/js/3.7a5fdaaa.chunk.js",
+    "static/js/3.7a5fdaaa.chunk.js.map": "/sweat-camp-score/static/js/3.7a5fdaaa.chunk.js.map",
+    "index.html": "/sweat-camp-score/index.html",
+    "static/css/main.cd052497.chunk.css.map": "/sweat-camp-score/static/css/main.cd052497.chunk.css.map",
+    "static/js/2.bdfba5be.chunk.js.LICENSE.txt": "/sweat-camp-score/static/js/2.bdfba5be.chunk.js.LICENSE.txt",
+    "static/media/codiny2.6336b120.svg": "/sweat-camp-score/static/media/codiny2.6336b120.svg",
+    "static/media/logo.6ce24c58.svg": "/sweat-camp-score/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b643a9b.js",
-    "static/js/2.7f8d707c.chunk.js",
+    "static/js/runtime-main.9bc104d6.js",
+    "static/js/2.bdfba5be.chunk.js",
     "static/css/main.cd052497.chunk.css",
     "static/js/main.d6128be6.chunk.js"
   ]
