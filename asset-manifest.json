@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sweat-camp-score/static/css/main.cd052497.chunk.css",
-    "main.js": "/sweat-camp-score/static/js/main.d6128be6.chunk.js",
-    "main.js.map": "/sweat-camp-score/static/js/main.d6128be6.chunk.js.map",
+    "main.js": "/sweat-camp-score/static/js/main.1fc97f8b.chunk.js",
+    "main.js.map": "/sweat-camp-score/static/js/main.1fc97f8b.chunk.js.map",
     "runtime-main.js": "/sweat-camp-score/static/js/runtime-main.9bc104d6.js",
     "runtime-main.js.map": "/sweat-camp-score/static/js/runtime-main.9bc104d6.js.map",
     "static/js/2.bdfba5be.chunk.js": "/sweat-camp-score/static/js/2.bdfba5be.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.9bc104d6.js",
     "static/js/2.bdfba5be.chunk.js",
     "static/css/main.cd052497.chunk.css",
-    "static/js/main.d6128be6.chunk.js"
+    "static/js/main.1fc97f8b.chunk.js"
   ]
 }
